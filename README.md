@@ -18,6 +18,7 @@ this is obviously super ambitious and unlikely to actually get to a place where 
 
 Join the Vortex Development Discord at https://discord.gg/5zWxzwAukj and send a message in the #applications channel with your qualifications, why you want to help out, etc. If I think you're a good fit, I'll add you to the team.   
 Currently I have no funding for this, but if I can get enough support hopefully I'll be able to turn this into a real company and start hiring actual developers, maybe even some of you guys if you're up for that.   
+Also, the website has a Trello board so you can see what I'm working on now, what I've finished, and what I'm planning for the site. https://trello.com/b/NXhxTanZ/vortex
 
 We currently need (in order of importance):
 
