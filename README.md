@@ -16,16 +16,15 @@ this is obviously super ambitious and unlikely to actually get to a place where 
 
 ### How to get involved
 
-Join the Vortex Development Discord at https://discord.gg/5zWxzwAukj and send a message in the #applications channel with your qualifications, why you want to help out, etc. If I think you're a good fit, I'll add you to the team.   
+Join the Vortex Development Discord at https://discord.gg/5zWxzwAukj and send a message in the #applications channel with your qualifications, why you want to help out, etc. If I think you're a good fit, I'll add you to the team (currently just me).   
 Currently I have no funding for this, but if I can get enough support hopefully I'll be able to turn this into a real company and start hiring actual developers, maybe even some of you guys if you're up for that.   
 Also, the website has a Trello board so you can see what I'm working on now, what I've finished, and what I'm planning for the site. https://trello.com/b/NXhxTanZ/vortex
 
 We currently need (in order of importance):
 
- - HTML/CSS/PHP/JS devs, to make the core of the website
- - someone who can write some backend code, like stuff to handle the video uploading process and also the algorithm, preferably in something like c# but if you know a language that is 1: somewhat commonly used 2: relatively easy to learn and use and 3: more efficient than c# then that would work too
- - someone who knows how to write SQL and use mySQL databases, or something similar but better
- - someone who can handle server hosting stuff so we can actually make this a website
+ - ASP.NET/C#/SQL devs, to make the core of the website
+ - HTML/CSS devs, to do styling and stuff
+ - Anything else relevant to ASP.NET CORE development, I honestly don't really know what I'm doing
 
 you dont necessarily have to fit exactly to these, if you know more about web design/database stuff/server hosting than me (you probably do) and there's a different/better way to do all this then just hop in the discord and tell me.
 
@@ -35,11 +34,11 @@ you dont necessarily have to fit exactly to these, if you know more about web de
 
 I'm currently taking college level classes in various different programming languages, including HTML/CSS. I'm sick of Youtube getting away with everything because they're the only good video platform, so I wanna change that.   
 
-Obviously I'm pretty underqualified for something of this scale at the moment, but I'm trying to learn as fast as I can. Most of my code is gonna be super inefficient and garbage since I literally started HTML/CSS/PHP/JS last week, so if you see anything problematic just let me know and give me a way to fix it and I'll make it better.   
+Obviously I'm pretty underqualified for something of this scale at the moment, but I'm trying to learn as fast as I can. Most of my code is gonna be super inefficient and garbage since I literally started ASP.NET last week, so if you see anything problematic just let me know and give me a way to fix it and I'll make it better.   
 
 Also, as a bunch of different people I've met have said, "An employer is hiring you to do something better than they can." It's a little different since I wouldn't be exactly hiring you, but you get the point. You'll probably be way better than me at whatever you join the team to do, which is why I want you to join the team.   
 
-If you want an idea of what my work looks like, just check out some of the other stuff I've uploaded to github.   
+If you want an idea of what my work looks like, just check out some of the other stuff I've uploaded to github. none of it is in c#, which is my main language, but it'll give you an idea.   
 
 ---
 
